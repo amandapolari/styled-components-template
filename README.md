@@ -1,16 +1,7 @@
-# Template - styled-components
+# Prática Guiada - Styled Component
 
-Você pode usar este repositório como template, entre na pasta `template/` e rode `npm install`, ou prefira usar o Codesandbox caso a sua máquina demore para instalar.
-
-Lembre-se sempre de instalar e importar o styled-components antes de usá-lo.
-
-```bash
-npm install styled-components
-```
-
-```jsx
-import styled from 'styled-components'
-```
-[**Link do CodeSandbox para a aula**](https://codesandbox.io/s/template-de-aula-styled-components-g7swn9)
-
-[**Sugestão de layout pro exercicio de fixação**](https://www.figma.com/file/2RxPH2cqcfW355wCyocxgw/Garagem-da-Labenu?node-id=0%3A1)
+<p align="center">
+<span><strong>Tecnologias e Ferramentas utilizadas:</strong></span>
+<br>
+    <img src="https://skillicons.dev/icons?i=react,js,styledcomponents" style="height: 30px;"/>
+</p>
